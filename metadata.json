@@ -1,0 +1,7 @@
+{
+  "name": "FlashCart",
+  "description": "AI-powered grocery scanning and price comparison tool.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
